@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  font-family: "bigelow rules";
+
+  color: rgba(7, 27, 82, 1);
+}
+
+h1 {
+  font-family: "bigelow rules";
+  font-size: 72px;
+  color: #0ccac4;
+}

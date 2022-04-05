@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    to left,
+    rgba(7, 27, 82, 1) 0%,
+    rgb(15, 230, 230) 100%
+  );
+}
