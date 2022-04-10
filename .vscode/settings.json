@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/24d50ac5-b331-4897-b6c5-4e7620b859bd/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/monsters-rolodex-react-mini-project",
+    "appService.deploySubpath": "."
+}
